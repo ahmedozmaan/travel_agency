@@ -91,6 +91,9 @@ app_license = "MIT"
 #	}
 # }
 
+# fixtures
+fixtures = ["Custom Field"]
+
 # Scheduled Tasks
 # ---------------
 
